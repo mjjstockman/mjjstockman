@@ -46,6 +46,9 @@
 
 ## Who I'm currently obsessively listening to:
 - [Any Old Iron](https://open.spotify.com/album/2CfagHDMlX1eVxpfZ3qshb?si=q_n5TraITne3tdmzeOxIiw)
+- [SOFT PLAY](https://open.spotify.com/album/2CfagHDMlX1eVxpfZ3qshb?si=q_n5TraITne3tdmzeOxIiw)
+- [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX?si=g_Z4MjSUTH6S3k1AsAoilQ)
+
 
 
 

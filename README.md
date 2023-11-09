@@ -30,21 +30,17 @@
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Rspec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" />
 
+---
+
+- 🔭 I’m currently working on a sickness and annual leave app for a client, using MERN stack.
+- 💬 Ask me about absolutely anything! I LOVE coding and helping others solve problems, so please do get in touch. Even just to use me as a slightly improved version of your Rubber Duck!
+- 📫 How to reach me: on LinkedIn [Matthew J. J. Stockman](https://www.linkedin.com/in/matthew-j-j-stockman/){:target="_blank"}
+- 😄 Pronouns: he / him
+- ⚡ Fun fact: 
+  - I have never had even a provisional driving license, BUT...
+  - I once owned TWO double-decker buses!
+    - One was open-topped and set up so bands could play impromptu gorilla gigs wherever we turned up.
+    - The other one was to take up to 10 bands, their equipment, and the occasional fan who fancied joining us for the next date on the tour!
 
 
-<br />
 
-<!--
-**mjjstockman/mjjstockman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
